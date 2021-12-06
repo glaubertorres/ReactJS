@@ -1,9 +1,19 @@
-.title{
-    color:blue;
-    text-align: center;
-}
+.caixa{
+    background-color: rgb(0, 0, 0);
 
+}
+.title{
+    color: white!important;
+    font-weight: bold!important;
+}
+.button{
+    border-color: white;
+    background-color: #0e1e79!important;
+    color: white!important;
+}
+.posts{
+    background-color: white;
+}
 .gif{
-    display: block;
-    margin: 0 auto;
+    width: 500px;
 }
